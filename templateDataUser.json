@@ -1,0 +1,26 @@
+{
+  "id": "1",
+  "name": "nama user",
+  "group": "bisa kayak kelas siswa / divisi pekerjaan",
+  "email": "email user",
+  "history": [
+    {
+      "name": "nama user (sama seperti tabel sebelumnya)",
+      "date": "tanggal absen",
+      "arrive": "jam datang",
+      "leave": "jam pulang",
+      "createdAt": "tanggal data absen masuk",
+      "updatedAt": "tanggal data absen terakhir di update"
+    },
+    {
+      "name": "nama user(sama seperti tabel sebelumnya)",
+      "date": "tanggal absen kedua",
+      "arrive": "jam datang kedua",
+      "leave": "jam pulang kedua",
+      "createdAt": "tanggal data absen masuk",
+      "updatedAt": "tanggal data absen terakhir di update"
+    }
+  ],
+  "createdAt": "tanggal data user masuk",
+  "updatedAt": "tanggal data user terakhir di update"
+}
